@@ -1,0 +1,23 @@
+{
+  "2026-08": {
+    "p1.titular": "Agosto cerró en $203.9 M y 7.94 M de litros",
+    "p1.subtitulo": "El regular encabeza el crecimiento en volumen; premium retrocede 18.1% frente a 2025.",
+    "p1.lectura.1": "Diésel suma 142 K litros (+4.5%) y su precio pasa de $25.83 a $26.99/L.",
+    "p1.lectura.2": "Premium pierde 184 K litros (-18.1%) y su precio pasa de $24.98 a $28.45/L.",
+    "p1.lectura.3": "Regular suma 161 K litros (+4.4%) y su precio pasa de $23.70 a $23.92/L.",
+    "p1.lectura.4": "El grupo cierra +1.5% en litros y +5.4% en pesos; contra 2024 el volumen queda -0.6%.",
+    "p2.titular": "IXTAZACUALA, TH y AVE FENIX explican el 93% del crecimiento del mes.",
+    "p2.subtitulo": "6 de las 11 estaciones comparables venden menos que en agosto de 2025.",
+    "desempeno_estacion.conclusiones": "TH tuvo un notable incremento en la venta de Diesel esto a causa de la construcción del tren México - Pachuca\n\n\nTreher T  presenta un decremento considerable, el factor principal es la diferencia de precios con la competencia de enfrente. \n\n\nIxtazacuala ha tenido un gran incremento. Este ascenso es dado a la reparación de la refinería cercana, se espera que el incremento se mantenga por lo menos 2 meses más.",
+    "p3.titular": "El acumulado crece 4.4% y lo comparable 4.1%.",
+    "p3.subtitulo": "0.4 puntos vienen de 2 estaciones sin base comparable; contra 2024 quedan -0.7%.",
+    "p4.titular": "El margen bruto cerró en $11.0 M: de cada $100 vendidos quedan $5.40.",
+    "p4.subtitulo": "En feb 2026 quedaban $9.06. Vendimos más litros que entonces y el margen queda $5.1 M abajo.",
+    "p4.nota": "QL concentra el 22.7% del margen del grupo; IXTAZACUALA explica el 95% de la variación del mes. TREHER T se mueve en sentido contrario (-320,347).",
+    "rentabilidad.analisis": "El efecto volumen proyectaba un incremento de $1.7 M, El efecto mix lo redujo -15 K debido a la disminucion de Premium y el efecto margen unitario disminuyo el margen real $5.1 M dejándolo en $11 M.",
+    "_meta": {
+      "elaboro": "",
+      "actualizado": "2026-09-03T13:53:50"
+    }
+  }
+}
