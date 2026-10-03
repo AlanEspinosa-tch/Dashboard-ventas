@@ -27,6 +27,7 @@ El valor central de este proyecto radica en la estructuración de la lógica de 
 
 Herramienta de análisis de ventas de combustible de las 13 estaciones del grupo: dashboard interactivo, reporte ejecutivo mensual en PDF y análisis extraordinarios.
 
+### REGLA DE NEGOCIO NO NEGOCIABLE: Todos los promedios se hacen en múltiplos de 7, esto por la estacionalidad semanal descubrida
 ---
 
 ## Para empezar
