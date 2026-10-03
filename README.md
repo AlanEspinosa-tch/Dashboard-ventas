@@ -27,9 +27,9 @@ Herramienta de análisis de ventas de combustible de las 13 estaciones del grupo
 ├── README.md                  ← este archivo
 ├── Abrir_Dashboard.bat        ← lanzador del dashboard
 │
-├── BD_Limpia.xlsx             ← FUENTE DE DATOS (hojas BD y BD_MARGENES)
-├── agrupacion.xlsx            ← catálogo auxiliar de agrupación
-├── VENTAS MENSUALES.pbix      ← tablero de Power BI (lee BD_Limpia.xlsx)
+├── BD_Limpia.xlsx             ← FUENTE DE DATOS (hojas BD y BD_MARGENES), obviamente no lo subí
+├── agrupacion.xlsx            ← catálogo auxiliar de agrupación , tampoco lo subí
+├── VENTAS MENSUALES.pbix      ← tablero de Power BI (lee BD_Limpia.xlsx) y este si 
 │
 ├── codigo/                    ← el programa: paquete + dashboard
 ├── analisis/                  ← notebooks de análisis puntuales
